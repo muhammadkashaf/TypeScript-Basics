@@ -1,4 +1,4 @@
-## Local Intallation
+## Local Intallation.
 
 ### Run Commands: 
 - npm install 
