@@ -1,5 +1,5 @@
 ## Local Intallation.
 
-### Run Commands: 
+ Run Commands: 
 - npm install.
 - tsc.
